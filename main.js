@@ -28,7 +28,7 @@ function updateJanuary() {
   const firstTds = firstRow.querySelectorAll("td");
   firstTds[1].innerText = "$184.22";
   firstTds[2].innerText = "$3.69";
-  firstTds[3].innerText = "$187.90";
+  firstTds[3].innerText = "$187.91";
   firstTds[4].innerText = "2%";
 
   const secondTds = secondRow.querySelectorAll("td");
