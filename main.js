@@ -1,1 +1,1 @@
-alert("Hello from Clouflare Pages!");
+alert("Hello from Clouflare Pages, updated!!");
