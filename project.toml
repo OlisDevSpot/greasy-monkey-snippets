@@ -1,0 +1,7 @@
+# project.toml
+[build]
+command = ""
+root = "."
+
+[[build.files]]
+base = "/"
